@@ -18,22 +18,16 @@ This project is a minimalist, fully functional command-line search engine built 
 ## 📦 How to Run
 
 1. Clone the repo:
-   ```bash
    git clone https://github.com/your-username/search-engine.git
    cd search-engine
-Install dependencies:
-
-bash
-Copy
-Edit
+   
+2. Install dependencies:
 pip install requests
-Run the program:
 
-bash
-Copy
-Edit
+3. Run the program:  
 python3 search.py
-Enter your SerpAPI key and begin searching.
+
+4.Enter your SerpAPI key and begin searching.
 
 🧠 Potential Improvements
 GUI version using Tkinter or Flask
