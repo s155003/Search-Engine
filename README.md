@@ -27,7 +27,7 @@ pip install requests
 3. Run the program:  
 python3 search.py
 
-4.Enter your SerpAPI key and begin searching.
+4. Enter your SerpAPI key and begin searching.
 
 🧠 Potential Improvements
 GUI version using Tkinter or Flask
